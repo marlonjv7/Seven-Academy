@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 850">
+<g id="Seven-Mark" transform="translate(250,40)">
+<path id="Top-Bar" fill="#FF443D" d="M106 110 L390 110 L335 166 L85 214 Z"/>
+<path id="Seven-Stem" fill="#F31522" d="M390 110 C323 174 262 242 216 326 L126 382 C174 275 242 192 335 166 Z"/>
+</g>
+<text id="Academy-Wordmark" x="500" y="660" text-anchor="middle" font-family="Montserrat,Arial,sans-serif" font-size="112" font-weight="600" letter-spacing="42" fill="#1555D8">ACADEMY</text>
+</svg>
